@@ -1,6 +1,9 @@
 # Gpumkat
 
-<img src="gpumkat_icon.png">
+### Showcase:
+
+
+<a href="https://www.youtube.com/watch?v=uRV-N743ZnM"><img src="gpumkat_icon.png"></a>
 
 a GPU kernel analysis tool for macOS Metal with many features ranging from analyzing performance to energy consumption, cache hit rates, interface metrics, gpu software states, shader optimization recommendations, stack traces, recording timelines and traces and more.
 
