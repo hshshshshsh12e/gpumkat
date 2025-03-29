@@ -14,17 +14,13 @@ a GPU kernel analysis tool for macOS Metal with many features ranging from analy
 
 ## Installation
 
-To install gpumkat, download the tar.gz file with git clone:
+To install gpumkat run this command.
 
 ```sh
-git clone https://github.com/MetalLikeCuda/gpumkat.git
+curl -L -o gpumkat.tar.gz https://github.com/MetalLikeCuda/osxiec/releases/download/%s/gpumkat.tar.gz && tar -xvzf gpumkat.tar.gz && cd gpumkat && sudo sh install.sh
 ```
 
-Then, run the following command:
-
-```sh
-sudo sh install.sh
-```
+replace %s with the latest version
 
 ## Usage
 
