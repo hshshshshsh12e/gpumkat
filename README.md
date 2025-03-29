@@ -198,6 +198,6 @@ make
 
 ### Notes:
 
-Other shaders you can use are located in the list of shaders: https://github.com/MetalLikeCuda/list_of_metal_shaders.md
+Other shaders you can use are located in the list of shaders: https://github.com/MetalLikeCuda/list_of_metal_shaders/list_of_metal_shaders.md
 
 Some things like temperature are simulated so it's better to just use instruments if you want very low level hardware specific data, though for normal debugging this should be better.
